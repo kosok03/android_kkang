@@ -1,0 +1,2 @@
+include ':app', ':part2_3'
+rootProject.name='androidlap'

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">part2_3</string>
+    <string name="long_text">
+        # how?
+
+        단편적으로 시리(아이폰), 빅스비(삼성) 같은 음성 인식이나 채팅인식으로
+        유저의 감정을 읽고, 공감해주고, 기억해주는 캐릭터를 만들자
+        And 건전하게 즐길 수 있는 공간을 만들면 된다.
+        어쩌면 가족같은 개념 ?? 아니면 애완견 같은 사랑을 나눌 수 있는..
+        그렇게 된다면 무서운(좋은 나쁜 의미 둘다) 게임을 만들 수 있을 것이다.
+
+        Not for money.
+    </string>
+
+</resources>
