@@ -18,8 +18,9 @@ public class Lab3_4Activity extends AppCompatActivity {
         setContentView(R.layout.activity_lab3_4);
 
         TextView textView=findViewById(R.id.fontView);
-        Typeface typeface=Typeface.createFromAsset(getAssets(), "joker.png");
-        textView.setTypeface(typeface); // fontView 라는 텍스트뷰의 폰트를 typeface로 바꿔라
+        Typeface typeface=Typeface.createFromAsset(getAssets(), "r.ttf");
+        textView.setTypeface(typeface);
+        textView.setText("I did this one");
 
         checkBox=findViewById(R.id.checkbox);
         checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
